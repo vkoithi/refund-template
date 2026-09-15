@@ -125,8 +125,11 @@ Abra o arquivo index.html no navegador.
 
 Também é possível utilizar a extensão Live Server no VS Code para executar o projeto localmente.
 
-🎯 Objetivo do projeto
+## 🎯 Objetivo do projeto
 
 O principal objetivo deste projeto foi praticar a utilização do JavaScript para manipulação do DOM, criando uma aplicação capaz de receber informações do usuário e atualizar a interface dinamicamente.
 
 Além da manipulação dos elementos HTML, o projeto permitiu praticar tratamento de valores monetários, eventos, objetos, funções, criação e remoção dinâmica de elementos e atualização de dados exibidos na página.
+
+## 💻 Projeto
+[Acesse o projeto finalizado, online.](https://vkoithi.github.io/refund-template/)
