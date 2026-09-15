@@ -103,7 +103,6 @@ Foram utilizadas Media Queries para realizar essas adaptações.
 
 ## 📁 Estrutura do projeto
 refund/
-│
 ├── img/
 │   ├── logo.svg
 │   ├── chevron-down.svg
@@ -114,7 +113,6 @@ refund/
 │   ├── transport.svg
 │   ├── others.svg
 │   └── preview.png
-│
 ├── index.html
 ├── styles.css
 ├── scripts.js
