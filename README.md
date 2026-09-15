@@ -102,21 +102,19 @@ Em dispositivos menores, o layout passa a utilizar uma estrutura vertical, facil
 Foram utilizadas Media Queries para realizar essas adaptações.
 
 ## 📁 Estrutura do projeto
-refund/
-├── img/
-│   ├── logo.svg
-│   ├── chevron-down.svg
-│   ├── remove.svg
-│   ├── food.svg
-│   ├── accommodation.svg
-│   ├── services.svg
-│   ├── transport.svg
-│   ├── others.svg
-│   └── preview.png
-├── index.html
-├── styles.css
-├── scripts.js
-└── README.md
+- `index.html` — estrutura principal da aplicação
+- `styles.css` — estilos, layout, responsividade e interações visuais
+- `scripts.js` — lógica das despesas, cálculos e manipulação do DOM
+- `img/` — recursos visuais utilizados no projeto
+    - `logo.svg` — logotipo da aplicação
+    - `chevron-down.svg` — ícone utilizado no seletor de categorias
+    - `remove.svg` — ícone utilizado para remover uma despesa
+    - `food.svg` — ícone da categoria Alimentação
+    - `accommodation.svg` — ícone da categoria Hospedagem
+    - `services.svg` — ícone da categoria Serviços
+    - `transport.svg` — ícone da categoria Transporte
+    - `others.svg` — ícone da categoria Outros
+    - `preview.png` — prévia do projeto
 
 ## ▶️ Como executar
 Clone este repositório:
